@@ -1,1 +1,1 @@
-# dot-files (edited on galois)
+# dot-files
